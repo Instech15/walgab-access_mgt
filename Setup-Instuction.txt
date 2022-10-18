@@ -1,0 +1,48 @@
+Instructions (BVN System)
+=========================
+
+1. Install XAMPP
+2. Extract compressed project folder into C:/xampp/htdocs
+3. In your browser (preferably chrome or firefox),
+	i. go to type "localhost/phpmyadmin"
+	ii. create a new database named bvn
+	iii. go to import, click browse, select the bvn.sql 
+	backup file from the project folder
+	"C:/xampp/htdocs/bvn/database/bvn.sql"
+	iv. click Go
+4. Open another tab on your web browser, type "localhost/bvn"
+
+Admin Login Credentials
+=======================
+Username: Peter
+Password: peter
+
+Login and explore your project.
+
+*****************************************************************
+*****************************************************************
+
+Instructions (Visitors Management)
+==================================
+
+1. Install XAMPP
+2. Extract compressed project folder into C:/xampp/htdocs
+3. In your browser (preferably chrome or firefox),
+	i. go to type "localhost/phpmyadmin"
+	ii. create a new database named avms_db
+	iii. go to import, click browse, select the avms_db.sql 
+	backup file from the project folder
+	i.e. C:/xampp/htdocs/visitor-management/Database/avms_db.sql
+	iv. click Go
+4. Open another tab on your web browser, type "localhost/visitor-management"
+
+Admin Login Credentials
+=======================
+Username: admin
+Password: admin123
+
+Login and explore your project.
+
+****************************
+  I wish you both success.
+****************************
